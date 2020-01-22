@@ -1,6 +1,6 @@
 # JS-Question-5-zero-trim
 
-Write a function which trims multiple zero's sequences ta a single zero digit.
+Write a function which trims multiple zero's sequences to a single zero digit.
 the return value is the updated array.
 YOU ARE NOT ALLOWED TO USE ANOTHER ARRAY, and you need to implement it with one pass over the array.
 in other words, each element in the array should change its index only once during the program.
